@@ -5,8 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azanrf&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azanrf&layout=compact&theme=tokyonight)](https://github.com/azanrf/github-readme-stats)
-
 ### 🌱 I’m currently learning:</h2>
 <p align="left"> 
   <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyterlab" width="40" height="40"/> </a>
