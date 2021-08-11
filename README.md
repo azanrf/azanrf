@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizki Fauzaan</h1>
-<h2 align="center">Currently as a student Computer Science and Engineering at Sriwijaya University, Indonesia</h2>
+<h2 align="center">Fresh Graduate</h2>
+<h3 align="center">Computer Science and Engineering - Sriwijaya University, Indonesia</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=azanrf&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=azanrf&redirect=true)
 
@@ -10,10 +11,7 @@
   <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyterlab" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visualstudio" width="40" height="40"/> </a>
-  <a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
-</p>
 
 ### 📫 How to reach me:
 <p align="left"> 
