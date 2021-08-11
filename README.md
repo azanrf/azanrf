@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rizki Fauzaan</h1>
-<h2 align="center">Fresh Graduate</h2>
-<h3 align="center">Computer Science and Engineering - Sriwijaya University, Indonesia</h3>
+<h1 align="center">Hai 👋, Saya Muhammad Rizki Fauzaan</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=azanrf&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=azanrf&redirect=true)
 
