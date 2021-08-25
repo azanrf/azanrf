@@ -1,17 +1,22 @@
-<h1 align="center">Hai 👋, Saya Muhammad Rizki Fauzaan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Rizki Fauzaan</h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=azanrf&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=azanrf&redirect=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azanrf&show_icons=true&theme=tokyonight&count_private=true)
 
-### 🌱 Sedang mempelajari:</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azanrf&show_icons=true&&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="azanrf"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azanrf&show_icons=true&theme=tokyonight&count_private=true" alt="azanrf" /></p>
+
+
+### 🌱 Currently Learning:</h2>
 <p align="left"> 
   <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyterlab" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visualstudio" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.office.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" width="40" height="40"/> </a>
 
-### 📫 Kontak Personal:
+### 📫 Contact:
 <p align="left"> 
   <a href="https://www.linkedin.com/in/muhammad-rizki-fauzaan/" target="_blank"><img align="left" alt="Muhammad Rizki Fauzaan | Linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/azanrf" target="_blank" target="_blank"><img align="left" alt="azanrf | Twitter" src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white"/></a>
