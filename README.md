@@ -4,7 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azanrf&show_icons=true&theme=tokyonight&count_private=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azanrf&show_icons=true&&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="azanrf"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azanrf&show_icons=true&&theme=tokyonight&count_private=true&locale=en" alt="azanrf"/></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azanrf&show_icons=true&theme=tokyonight&count_private=true" alt="azanrf" /></p>
 
 
